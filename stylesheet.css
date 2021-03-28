@@ -47,6 +47,7 @@ li {
 .container h2 {
   font-size: 20px;
   color: white;
+  background-color: rgba(7, 0, 0, 0.2);
 }
 
 header {
