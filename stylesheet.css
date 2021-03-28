@@ -105,6 +105,7 @@ header {
 }
 
 .lesson img {
+  border-radius: 20px;
   max-width: 100%;
   height: 200px;
 }
@@ -126,6 +127,7 @@ header {
 
 .txt-contents {
   width: 80%;
+  margin-top: 10px;
   display: inline-block;
   font-size: 15px;
   color: blue;
